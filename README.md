@@ -1,5 +1,10 @@
 ### shit i've already finished sort of 
 - [n+ source](https://github.com/frickinfire/nplus)
+- [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
+### stuff in active development
+- netfricks: old netflix shit since wii versions were archived
+- rebelium site 
+
 
 
 <!--
