@@ -1,5 +1,4 @@
-### sex
-hello, im frickinfire. i do the funny code (very badly) and idk blah blah blah im just spouting random words need to fill up readme
+
 ### shit i've already finished sort of 
 - [n+ source](https://github.com/frickinfire/nplus)
 - [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
