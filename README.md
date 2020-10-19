@@ -7,7 +7,7 @@ hello, im frickinfire. i do the funny code (very badly) and idk blah blah blah i
 - netfricks: old netflix shit since wii versions were archived
 - rebelium site 
 - serv.0: a bot i made for my friends' discord server
-
+- SEEMOCEE: check mii out channel private server (yes awesome, its still gonna happen)
 
 
 <!--
