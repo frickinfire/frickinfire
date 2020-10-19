@@ -3,10 +3,9 @@
 - [n+ source](https://github.com/frickinfire/nplus)
 - [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
 ### stuff in active development
-- netfricks: old netflix shit since wii versions were archived
 - rebelium site 
 - serv.0: a bot i made for my friends' discord server
-- SEEMOCEE: check mii out channel private server (yes awesome, its still gonna happen)
+- riiconnect420: @RiiConnect24 source mod that makes rc24 swag :sunglasses:
 
 
 <!--
