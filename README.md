@@ -1,11 +1,12 @@
 
-### shit i've already finished sort of 
+## shit i've already finished sort of 
 - [n+ source](https://github.com/frickinfire/nplus)
 - [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
-### stuff in active development
+## stuff in active development
 - rebelium site 
 - serv.0: a bot i made for my friends' discord server
 - riiconnect420: @RiiConnect24 source mod that makes rc24 swag :sunglasses:
+- [orc bot](https://github.com/frickinfire/orcbot): simple discord bot that says shit about the orc
 
 
 <!--
