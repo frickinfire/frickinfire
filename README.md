@@ -1,3 +1,7 @@
+## who even are you
+idk im fire, i do the funny and make the thing
+
+
 
 ## shit i've already finished sort of 
 - [n+ source](https://github.com/frickinfire/nplus)
