@@ -7,10 +7,8 @@ idk im fire, i do the funny and make the thing
 - [n+ source](https://github.com/frickinfire/nplus)
 - [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
 ## stuff in active development
-- rebelium site 
 - serv.0: a bot i made for my friends' discord server
-- riiconnect420: @RiiConnect24 source mod that makes rc24 swag :sunglasses:
-- [orc bot](https://github.com/frickinfire/orcbot): simple discord bot that says shit about the orc
+- WiiSet24: a service similar to WiiLink24 and RiiConnect24, that offers Kirby TV Channel, YouTube, Wii Shop Channel, and more.
 
 
 <!--
