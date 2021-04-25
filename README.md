@@ -1,14 +1,8 @@
-## who even are you
-idk im fire, i do the funny and make the thing
+## FUCK
+BALLS 
 
 
 
-## shit i've already finished sort of 
-- [n+ source](https://github.com/frickinfire/nplus)
-- [shane dawson discord bot (OLD)](https://github.com/frickinfire/shane)
-## stuff in active development
-- serv.0: a bot i made for my friends' discord server
-- WiiSet24: a service similar to WiiLink24 and RiiConnect24, that offers Kirby TV Channel, YouTube, Wii Shop Channel, and more.
 
 
 <!--
