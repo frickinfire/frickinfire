@@ -6,4 +6,4 @@
 - Project Lighthouse, a LittleBigPlanet private server
 ## you can contact me on discord at fire#8242. bye!
 
-# psst... don't look at my old repos. they're not good!
+ psst... don't look at my old repos. they're not good!
