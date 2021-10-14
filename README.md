@@ -1,9 +1,7 @@
-## hi, im frickinfire, an aspiring C# and PHP developer.
+## hi, im frickinfire
 ### projects i am working on/worked on
 - 0z, a 2016 roblox revival (with @ohoshk)
-- various OYC projects (they were shit though)
-- Totally Not Bruteforcer
+- various OYC projects
 - Novetus+, a multi-client ROBLOX revival modified to work with Novetus
-- michael's birthday bash, a game about rats and fighting (topdown rpg made with @coosmec on twitter)
-- Wiiareinpain, a custom wiimmfi like server based on altwfc
+- Project Lighthouse, a LittleBigPlanet private server
 ## you can contact me on discord at fire#8242. bye!
